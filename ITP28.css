@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.j{
+    gap: 30px;
+}
+.box2 {
+    padding: 80px;
+}
+.m{
+    gap: 30px;
+}
+.item{
+    height: 30px;
+    width: 120px;
+    background: transparent;
+    margin-left: 70%;
+}
+.t{
+    gap: 20px;
+}
+.g{
+    width: 150px;
+    height: 20px;
+}
+.g p{
+    background-color: #156963;
+}
+.box1 {
+    width: 50%;
+    height: 750px;
+    background-image: url(./rectangle1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.z img{
+    margin-left: 50px;
+    margin-top: 60px;
+}
